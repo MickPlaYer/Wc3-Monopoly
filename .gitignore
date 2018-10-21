@@ -1,0 +1,6 @@
+RMPQEx
+extracted/*
+!extracted/war3map.j
+!extracted/war3map.wct
+!extracted/war3map.wts
+!extracted/war3mapExtra.txt
